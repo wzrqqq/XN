@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ktv/.idea/ktv.iml" filepath="$PROJECT_DIR$/../ktv/.idea/ktv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lvyou/.idea/lvyou.iml" filepath="$PROJECT_DIR$/../lvyou/.idea/lvyou.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/node/.idea/node.iml" filepath="$USER_HOME$/Desktop/node/.idea/node.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/teadao.iml" filepath="$PROJECT_DIR$/.idea/teadao.iml" />
+    </modules>
+  </component>
+</project>
